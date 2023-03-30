@@ -4,8 +4,45 @@ html body{
 }
 
 
+h3 {
+    color: green;
+}
 
+div {
+    color: green;
+}
 
+div span {
+    color: green;
+}
+
+span {
+    color: green;
+}
+
+a {
+    color: green;
+}
+
+cite {
+    color: green;
+}
+
+em {
+    color: green;
+}
+
+div span {
+    color: green;
+}
+
+div a {
+    color: green;
+}
+
+span em {
+    color: green; 
+}
 
 
 

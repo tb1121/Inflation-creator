@@ -6,7 +6,7 @@
     "page_action": {},
 
 "content_scripts": [{
-  "matches": ["https://www.google.com/*"]
+  "matches": ["https://www.google.com/*"],
   "css": ["main.css"]
 }]
 }
